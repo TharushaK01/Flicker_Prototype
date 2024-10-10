@@ -29,7 +29,7 @@ The Figma prototype and wireframe for the app can be found here.
 
 ## Screenshots
 
-![](Screenshots/Chats.png)
+![](Screenshots/Chats.png width="20%" height="20%")
 ![](Screenshots/Login.png)
 ![](Screenshots/Profile.png)
 ![](Screenshots/Register_2).png)
