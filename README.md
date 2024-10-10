@@ -29,5 +29,12 @@ The Figma prototype and wireframe for the app can be found here.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](Screenshots/Chats.png)
+![](Screenshots/Login.png)
+![](Screenshots/Profile.png)
+![](Screenshots/Register (step 1).png)
+![](Screenshots/page 01.png)
+![](Screenshots/page 14.png)
+![](Screenshots/page 15.png)
+![](Screenshots/page 18.png)
 
