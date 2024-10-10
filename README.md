@@ -32,7 +32,7 @@ The Figma prototype and wireframe for the app can be found here.
 ![](Screenshots/Chats.png)
 ![](Screenshots/Login.png)
 ![](Screenshots/Profile.png)
-![](Screenshots/Register_(step 1).png)
+![](Screenshots/Register_2).png)
 ![](Screenshots/page_01.png)
 ![](Screenshots/page_14.png)
 ![](Screenshots/page_15.png)
